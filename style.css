@@ -1,0 +1,64 @@
+body{
+    background-image:"realisation-cocktail-par-un-barman";
+}
+h1{
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: bisque;
+    font-weight: 900;
+    text-align: center;
+}
+body{
+    background-image: url("realisation-cocktail-par-un-barman") ;
+}
+.text{
+
+   font-size: medium;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-style: unset;
+   color:rgb(234, 238, 239);
+   font-size: 35px;
+   text-align: center;
+   border-style: outset;
+   border-color: black;
+   background-color: rgba(218, 116, 6, 0.725);
+   border: 2px;
+   border-radius: 5px ;
+  
+
+
+}
+h3{
+font-size: 30px;
+}
+body{
+background-image:url("astronaute-dans-espace-exterieur-ouvert-planete-terre-etoiles-fournissent-arriere-plan-formant-espace-au-dessus-planete-terre-lever-du-soleil-coucher-du-soleil-notre-maison-iss-elements-image-fournie-par-nasa.jpg") ;
+background-size: cover;
+
+}
+.topnav li,.topnav a {
+font-size: 27px;
+color: rgb(255, 0, 21);
+}
+
+#yazidi{
+    margin-left: 590px;
+}
+h3{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+#heha{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
